@@ -1,4 +1,4 @@
-# TMDB-movie-datset
+# TMDB-movie-dataset
 Investigate a dataset: TMDb
 In this project, we have analyed TMDb movies dataset and communicate our findings. 
 We will use the Python libraries NumPy, pandas, seaborn and Matplotlib.
